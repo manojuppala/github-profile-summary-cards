@@ -80,5 +80,45 @@ ThemeMap.set('github_dark', {
     icon_color: '#8b949e',
     line_chart_color: '#40c463',
 });
+ThemeMap.set('radical', {
+    title_color: "#fe428e",
+    text_color: "#a9fef7",
+    bg_color: "#141321",
+    stroke_color: "#141321",
+    icon_color: "#f8d847",
+    line_chart_color: '#ae81ff',
+});
+ThemeMap.set('gruvbox', {
+    title_color: "#fabd2f",
+    text_color: "#8ec07c",
+    bg_color: "#282828",
+    stroke_color: "#282828",
+    icon_color: "#fe8019",
+    line_chart_color: '#fe8019',
+});
+ThemeMap.set('tokyonight', {
+    title_color: "#70a5fd",
+    text_color: "#38bdae",
+    bg_color: "#1a1b27",
+    stroke_color: "#1a1b27",
+    icon_color: "#bf91f3",
+    line_chart_color: '#bf91f3',
+});
+ThemeMap.set('cobalt', {
+    title_color: "#ffc600",
+    text_color: "#0088ff",
+    bg_color: "#193549",
+    stroke_color: "#193549",
+    icon_color: "#ffffff",
+    line_chart_color: '#ffffff',
+});
+ThemeMap.set('dark', {
+    title_color: "#ffffff",
+    text_color: "#ffffff",
+    bg_color: "#343a40",
+    stroke_color: "#343a40",
+    icon_color: "#ffffff",
+    line_chart_color: '#ae81ff',
+});
 
 module.exports = ThemeMap;
